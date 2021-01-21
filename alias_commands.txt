@@ -12,3 +12,5 @@ alias myip="curl ipinfo.io/ip"
 # Git commands
 alias push="git push -u origin"
 alias commit="git commit -m"
+alias add="git add ."
+alias status="git status"
