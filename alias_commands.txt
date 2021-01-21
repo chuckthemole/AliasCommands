@@ -1,0 +1,14 @@
+#****Alias commands****
+
+# Activate django environment
+alias djangoenv="source ~/djangoenv/bin/Activate"
+
+# Run server django
+alias runserver="python manage.py runserver"
+
+# Print my pulic IP
+alias myip="curl ipinfo.io/ip"
+
+# Git commands
+alias push="git push -u origin"
+alias commit="git commit -m"
